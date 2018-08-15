@@ -7,6 +7,6 @@ Congratulations! You're submitting your assignment.
 |---	|---	|
 |  What did your data structure look like at first? Did this structure evolve over time? Why?	|   	|
 |  What was your strategy for going through the data structure and gathering information?	|   	|
-|  What was an example of something that was necessary to store in a variable? What was the scope of each of that variables? Why? 	|   	|
+|  What was an example of something that was necessary to store in a variable? What was the scope of that variable? Why? 	|   	|
 |  What kinds of iteration did you use? Did you use `.map`? 	|   	|
 |  Were some calculations easier than others? Why? 	|   	|
